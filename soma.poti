@@ -1,0 +1,4 @@
+escreva "Somar dois números"
+a, b = leia_inteiro
+soma = a + b
+escreva "Soma = {a+b}"
